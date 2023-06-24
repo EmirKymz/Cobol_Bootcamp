@@ -22,6 +22,7 @@
            05  PRINT-SURNAMES       PIC X(15).
            05  PRINT-BDATE          PIC 9(08).
            05  PRINT-TODAY          PIC 9(08).
+           05  PRINT-SPACE          PIC X(5) VALUE SPACES.
            05  PRINT-DIFF           PIC 9(05).
 
        FD  ACCT-REC RECORDING MODE F.
@@ -41,6 +42,7 @@
               88 ACCT-SUCCESS          VALUE 00 97.
            05 DATE-INT      PIC 9(07).
            05 NDATE-INT     PIC 9(07).
+
        PROCEDURE DIVISION.
        0000-MAIN.
            PERFORM H100-OPEN-FILES.
