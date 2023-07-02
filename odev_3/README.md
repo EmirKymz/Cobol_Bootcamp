@@ -1,0 +1,1 @@
+programi calistirabilmek icin oncelikle CRQSAM0J sonrasinda CRINPUTJ ondan sonra CRVSAM0J yi derledikten sonra PBCID01J ile bitirebilirsiniz.
