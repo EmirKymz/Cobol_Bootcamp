@@ -73,5 +73,4 @@
            MOVE FIRST-NAME   TO  FIRST-NAME-O.
            MOVE COMMENTS     TO  COMMENTS-O.
            WRITE PRINT-REC.
-      
-
+           
